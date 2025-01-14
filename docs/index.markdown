@@ -5,19 +5,19 @@ nav_order: 10
 has_children: false
 ---
 
-# MICROSITE_TITLE
+# Project Incubator
 
-[GitHub Repo](https://github.com/The-AI-Alliance/REPO_NAME){:target="repo" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph}
+[GitHub Repo](https://github.com/The-AI-Alliance/incubator){:target="repo" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph}
 [The AI Alliance](https://thealliance.ai){:target="ai-alliance" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph} 
 
-| **Authors**     | [WORK_GROUP_NAME](https://thealliance.ai/focus-areas/WORK_GROUP_URL_NAME){:target="ai-alliance-wg"} (See the [Contributors]({{site.baseurl}}/contributing/#contributors)) |
+| **Authors**     | [FA3: Tools and Applications](https://thealliance.ai/focus-areas/applications-and-tools){:target="ai-alliance-wg"} (See the [Contributors]({{site.baseurl}}/contributing/#contributors)) |
 | **Last Update** | V0.0.1, YMD_TSTAMP |
 
-Welcome to the **The AI Alliance**: **MICROSITE_TITLE**.
+Welcome to the **The AI Alliance**: **Project Incubator**.
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
-> **TODO:** This is a work-in-progress website for the MICROSITE_TITLE.
+> **TODO:** This is a work-in-progress website for the Project Incubator.
 
 TODO: add more "welcome" content here...
 
@@ -31,7 +31,7 @@ Additional links: [^2]
 * [Contributing]({{site.baseurl}}/contributing): We welcome your contributions! Here's how you can contribute.
 * [About Us]({{site.baseurl}}/about): More about the AI Alliance and this project.
 * [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}: The AI Alliance website.
-* [Project GitHub Repo](https://github.com/The-AI-Alliance/REPO_NAME){:target="repo"}
+* [Project GitHub Repo](https://github.com/The-AI-Alliance/incubator){:target="repo"}
 
 
 A table example (standard Markdown - the extra whitespace is not necessary):
