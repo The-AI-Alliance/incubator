@@ -8,7 +8,7 @@ nav_order: 90
 
 The following people have contributed to the creation and maintenance of this project:
 
-* TODO
+* Trevor Grant [@rawkintrevo](https://githbub.com/rawkintrevo)
 
 # How to Contribute to this Project
 
